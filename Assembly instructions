@@ -1,0 +1,32 @@
+-- The following couplers have been designed to hold neodymium magnets of size Ø2mm diameter by 1mm thickness.
+-- N35 grade magnets have been used successfully, although higher grades are recommended for H0 and, especially, long and heavy trains.
+
+-- The STL files have been generated for resin 3D printing and already include the base and supports.
+-- Each STL file has one coupler head. Just drag and drop the files into the slicer and copy and arrange the couplers as necessary.
+
+1a - When planning the 3D print, please bypass the generation of supports, since these are already included in the STL files as mentioned before.
+1b - Make sure the final slicing includes the scaling of the print according to the contraction rate of the resin being used.
+
+2 - After printing, proceed with a two-pass wash, then allow the couplers to fully dry without removing them from the build plate.
+**Once the couplers have completely dried, do not proceed with final UV cure!**
+
+3a - Still on the build plate, remove each coupler individually from their supports, using either your fingers or tweezers.
+**A good print will not require the use of blades or pliers to cut the couplers away from the supports.**
+3b - Any coupler head that has been found bent, out of their supports, or with incomplete supports, should be immediately discarded since they definitively will be out of spec.
+3c - Once all the coupler heads have been removed from their supports, the leftover supports can be safely removed from the building plate.
+
+4a - The magnets are now added before final UV cure.
+4b - Use an existing magnetic coupler as the reference piece to ensure the polarity of the new magnets.
+4c - Otherwise, use a REE Modeles XB-934 magnetic coupler as the reference piece.
+4d - Add two magnets to the reference piece, then press the new coupler head onto the magnets as if coupling both heads.
+5d - Carefully remove the new coupler head and confirm the magnets are fully seated.
+
+6a - Once all the magnets are inserted, proceed with final UV cure.
+6b - Curing will cause the resin to retract, locking the magnets in place.
+
+7a - Once curing is completed, check all the couplers by coupling them front-to-front:
+7b - If any coupler has the polarity of the magnets inverted, set that coupler aside for later retrieval of the magnets, for reuse.
+7c - If any coupler has one, or both, of its magnets come off from their socket, keep the removed magnet in place, add a small drop of cyanoacrylate glue to the removed magnet, then press the coupler head back in, repeating the step from before curing.
+
+8a - If the resin has the final color, the couplers can now be used to replace the couplers you need on your trains.
+8b - If you need to paint the couplers, make sure to scrape the paint from the magnet’s surface to allow electricity to flow through the couplers.
